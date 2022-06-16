@@ -13,7 +13,6 @@
     <br> • Being a <a href="https://youtube.com/TheFlagen430297" title="Check out my YouTube channel!" target="_blank">YouTuber</a>
     <br> • Coding <i>(I guess you knew that XD)</i>
     </p>
-    <img src="https://github-readme-stats.vercel.app/api?username=TheFlagen430297&custom_title=Flagen%27s%20GitHub%20Stats%20:D&include_all_commits=true&hide_border=true&count_private=true&text_color=b6b6c8&title_color=ececff&bg_color=45,000000,101010,1a1a1a,232323,2d2d2d,373737,414141,4c4c4c,575757,626262">
     <img src="https://github-readme-stats.vercel.app/api?username=TheFlagen430297&custom_title=Flagen%27s%20GitHub%20Stats%20:D&include_all_commits=true&hide_border=true&count_private=true&text_color=b6b6c8&title_color=ececff&bg_color=0d1117">
   </body>
 </html>
