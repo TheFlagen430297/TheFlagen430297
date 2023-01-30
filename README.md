@@ -1,6 +1,6 @@
 <html>
   <body>
-    <img src="https://storage.theflagen430297.com/pictures/logo.ico" style="height: 64px; width: 64px;">
+    <img src="https://storage.theflagen430297.com/pictures/logo.png" style="height: 64px; width: 64px;">
     <h1 style="margin-top: -60px; margin-left: 65px;"><i>𝓗𝓮𝓵𝓵𝓸</i>, I'm <a href="https://theflagen430297.com/Home" title="Click to go to my Website! :D" target="_blank"><i><b>TheFlagen430297</b></i></a>!</h1>
     <p>And well I don't do much on GitHub XD Most people are better coders then me BUT! I do a lot of coding XD
     <br>Some of the coding projects that I've done is:
